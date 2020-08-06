@@ -11,9 +11,4 @@ I'm junior machine learning engineer 😵
 * Graph Neural Network
 * Biomedical Informatics
 
-### 📫 How to reach me
-* Blog: [https://velog.io/@ur-luella](https://velog.io/@ur-luella)
-* Email: [ur.luella@gmail.com](ur.luella@gmail.com)
-* <s>Resume: [ur.luella@github.io](ur.luella@github.io)</s> Currently unavailable..
-
 ![ur-luella's github stats](https://github-readme-stats.vercel.app/api?username=ur-luella&show_icons=true&hide_border=true)
