@@ -3,9 +3,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fur-luella)](https://hits.seeyoufarm.com)
 </div>
 
-### Hi there 👋 
-I'm junior machine learning engineer 😵
-
 ### 🌱 I’m currently learning
 * Automatic Speech Recognition
 * Graph Neural Network
