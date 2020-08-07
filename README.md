@@ -10,5 +10,5 @@
 
 [` 👆 View My Blog `](https://velog.io/@ur-luella)  
 [` 👇 Check My Repos `](https://github.com/ur-luella?tab=repositories)  
-[` 👋 Ask Me `](https://github.com/ur-luella/ur-luella/issues/new)
+[` 👋 Ask Me `](https://github.com/ur-luella/ur-luella/issues/new) 
 
