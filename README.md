@@ -8,7 +8,7 @@
 ![GNN](https://img.shields.io/badge/GNN-Graph%20Neural%20Network-blueviolet)
 ![DRUG](https://img.shields.io/badge/DRUG-Drug%20Repositioning-ff69b4)
 
-[` 👆 View My Blog `](velog.io/@ur-luella)  
+[` 👆 View My Blog `](https://velog.io/@ur-luella)  
 [` 👇 Check My Repos `](https://github.com/ur-luella?tab=repositories)  
 [` 👋 Ask Me `](https://github.com/ur-luella/ur-luella/issues/new)
 
