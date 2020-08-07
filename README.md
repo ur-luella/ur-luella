@@ -4,8 +4,11 @@
 </div>
 
 ### 🌱 I’m currently learning
-* Automatic Speech Recognition
-* Graph Neural Network
-* Biomedical Informatics
+![ASR](https://img.shields.io/badge/ASR-Automatic%20Speech%20Recognition-blue)
+![GNN](https://img.shields.io/badge/GNN-Graph%20Neural%20Network-blueviolet)
+![DRUG](https://img.shields.io/badge/DRUG-Drug%20Repositioning-ff69b4)
 
-![ur-luella's github stats](https://github-readme-stats.vercel.app/api?username=ur-luella&show_icons=true&hide_border=true)
+[` 👆 View My Blog `](velog.io/@ur-luella)  
+[` 👇 Check My Repos `](https://github.com/ur-luella?tab=repositories)  
+[` 👋 Ask Me `](https://github.com/ur-luella/ur-luella/issues/new)
+
