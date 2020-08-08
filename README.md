@@ -4,8 +4,8 @@
 </div>
 
 ### 🌱 I’m currently learning
-![ASR](https://img.shields.io/badge/ASR-Automatic%20Speech%20Recognition-blue)
-![GNN](https://img.shields.io/badge/GNN-Graph%20Neural%20Network-blueviolet)
+![ASR](https://img.shields.io/badge/ASR-Automatic%20Speech%20Recognition-blue)<br>
+![GNN](https://img.shields.io/badge/GNN-Graph%20Neural%20Network-blueviolet)<br>
 ![DRUG](https://img.shields.io/badge/DRUG-Drug%20Repositioning-ff69b4)
 
 [` 👆 View My Blog `](https://velog.io/@ur-luella)  
