@@ -1,7 +1,4 @@
-<div align=center>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fur-luella)](https://hits.seeyoufarm.com)
-</div>
 
 ### 🌱 I’m currently learning
 ![ASR](https://img.shields.io/badge/ASR-Automatic%20Speech%20Recognition-blue)<br>
